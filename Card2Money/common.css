@@ -1,0 +1,106 @@
+﻿ body
+        {
+            margin-top:0px;
+            background-color:ghostwhite;
+        }
+        .topmargin
+        {
+            margin-top:18px;
+        }
+        .topmargin1 {
+            margin-top: 50px;
+        }
+        .topmargin2
+        {
+            margin-top:60px;
+        }
+        .leftmargin
+        {
+            margin-left:40px;
+        }
+        .leftmargin1 {
+            margin-left:50px;
+        }
+        .leftmargin2 {
+            margin-left:750px;
+        }
+        .leftmargin3
+        {
+            margin-left:80px;
+        }
+        .leftmargin4
+        {
+            margin-left:240px;
+        }
+        .rightmargin
+        {
+            margin-right:40px;
+        }
+        .heading
+        {
+            font-family:'Times New Roman';
+            font-size:30px;
+            color:black;
+        }
+        .heading1
+        {
+            font-family:sans-serif;
+        }
+        .header 
+        {
+            font-family: 'Arabic Typesetting';
+            color: darkslategray;
+            font-size:larger;
+        }
+        .heading2 {
+            font-family: 'Arabic Typesetting';
+            font-size: 20px;
+            color: black;
+        }
+        a,u{
+            text-decoration:none !important;
+        }
+        .boxed-black {
+            border: solid 2px #424242;
+        }
+        .boxed-red {
+            border: solid 2px red;
+        }
+        .text-center
+        {
+            text-align:center;
+        }
+        .white
+        {
+            background-color:whitesmoke;
+        }
+        .white1
+        {
+            color:lightgrey;
+        }
+        .circular-image
+        {
+            border-radius:50%;
+        }
+        .neon
+        {
+            background-color:dimgray;
+        }
+      
+        .pink
+        {
+            color:gray;
+            font-size:xx-large;
+            font-family:'Arabic Typesetting';
+        }
+        .white2
+        {
+            color:antiquewhite;
+            font-family:'Bookman Old Style';
+        }
+        .white3
+        {
+            color:gray;
+            font-size:larger;
+        }
+       
